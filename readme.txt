@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Cat is no  a dog.
 Git tracks changes of files.
 one more.
+checked
